@@ -1,0 +1,5 @@
+node_modules/
+__pycache__/
+.DS_Store
+# 원본 3D 모델은 65MB라 저장소에 올리지 않음 (게임은 assets/character.glb 사용)
+원본/캐릭터_3D모델_원본.glb
